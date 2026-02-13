@@ -57,34 +57,24 @@ listing-intelligence-system/
 ```
 
 ---
-
 ## 🚀 Tech Stack
-## 🧱 Tech Stack
 
 ### Backend / NLP
-
-* **Python 3.11+**
-* **MySQL (Dockerized)**
-* **pandas** for data processing
-* **NLTK / spaCy** for text processing
-* **Sentence-Transformers** for embeddings
-* **FAISS** for vector similarity search
-* **Scikit-learn** for classification & evaluation
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Docker-4479A1?logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-Data_Processing-150458?logo=pandas&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-NLP-9C27B0)
+![spaCy](https://img.shields.io/badge/spaCy-NLP-09A3D5)
+![Sentence-Transformers](https://img.shields.io/badge/Sentence--Transformers-Embeddings-FF6F00)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-009688)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?logo=scikitlearn&logoColor=white)
 
 ### API / System
-
-* **FastAPI** for RESTful service layer
-* **Pytest** for unit testing
-* **Docker** for containerized database setup
-* Parameterized SQL for injection-safe query generation
-* Schema validation for structured data integrity
-
-### Architecture Highlights
-
-* Modular NLP pipeline design
-* Natural language → structured SQL parsing
-* Embedding-based semantic search
-* Compliance-aware text filtering
+![FastAPI](https://img.shields.io/badge/FastAPI-REST_API-009688?logo=fastapi&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-Testing-0A9EDC)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/Parameterized-SQL-blue)
+![Schema Validation](https://img.shields.io/badge/Schema-Validation-informational)
 
 ---
 
