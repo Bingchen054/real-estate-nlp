@@ -1,0 +1,2312 @@
+{
+  "meta": {
+    "source_file": "data/processed/listing_sample.csv",
+    "total_terms": 384
+  },
+  "terms": [
+    {
+      "id": 1,
+      "term": "with",
+      "ngram": 1,
+      "frequency": 2000
+    },
+    {
+      "id": 2,
+      "term": "to",
+      "ngram": 1,
+      "frequency": 1285
+    },
+    {
+      "id": 3,
+      "term": "property",
+      "ngram": 1,
+      "frequency": 1203
+    },
+    {
+      "id": 4,
+      "term": "investment",
+      "ngram": 1,
+      "frequency": 1203
+    },
+    {
+      "id": 5,
+      "term": "beautiful",
+      "ngram": 1,
+      "frequency": 1000
+    },
+    {
+      "id": 6,
+      "term": "located",
+      "ngram": 1,
+      "frequency": 1000
+    },
+    {
+      "id": 7,
+      "term": "is",
+      "ngram": 1,
+      "frequency": 1000
+    },
+    {
+      "id": 8,
+      "term": "and",
+      "ngram": 1,
+      "frequency": 1000
+    },
+    {
+      "id": 9,
+      "term": "includes",
+      "ngram": 1,
+      "frequency": 1000
+    },
+    {
+      "id": 10,
+      "term": "priced",
+      "ngram": 1,
+      "frequency": 1000
+    },
+    {
+      "id": 11,
+      "term": "sell",
+      "ngram": 1,
+      "frequency": 1000
+    },
+    {
+      "id": 12,
+      "term": "strong",
+      "ngram": 1,
+      "frequency": 1000
+    },
+    {
+      "id": 13,
+      "term": "potential",
+      "ngram": 1,
+      "frequency": 1000
+    },
+    {
+      "id": 14,
+      "term": "home",
+      "ngram": 1,
+      "frequency": 339
+    },
+    {
+      "id": 15,
+      "term": "lot",
+      "ngram": 1,
+      "frequency": 306
+    },
+    {
+      "id": 16,
+      "term": "hoa",
+      "ngram": 1,
+      "frequency": 288
+    },
+    {
+      "id": 17,
+      "term": "near",
+      "ngram": 1,
+      "frequency": 277
+    },
+    {
+      "id": 18,
+      "term": "community",
+      "ngram": 1,
+      "frequency": 275
+    },
+    {
+      "id": 19,
+      "term": "townhouse",
+      "ngram": 1,
+      "frequency": 211
+    },
+    {
+      "id": 20,
+      "term": "single",
+      "ngram": 1,
+      "frequency": 206
+    },
+    {
+      "id": 21,
+      "term": "family",
+      "ngram": 1,
+      "frequency": 206
+    },
+    {
+      "id": 22,
+      "term": "duplex",
+      "ngram": 1,
+      "frequency": 193
+    },
+    {
+      "id": 23,
+      "term": "condo",
+      "ngram": 1,
+      "frequency": 187
+    },
+    {
+      "id": 24,
+      "term": "needs",
+      "ngram": 1,
+      "frequency": 175
+    },
+    {
+      "id": 25,
+      "term": "tlc",
+      "ngram": 1,
+      "frequency": 175
+    },
+    {
+      "id": 26,
+      "term": "recently",
+      "ngram": 1,
+      "frequency": 174
+    },
+    {
+      "id": 27,
+      "term": "upgraded",
+      "ngram": 1,
+      "frequency": 174
+    },
+    {
+      "id": 28,
+      "term": "fully",
+      "ngram": 1,
+      "frequency": 168
+    },
+    {
+      "id": 29,
+      "term": "renovated",
+      "ngram": 1,
+      "frequency": 168
+    },
+    {
+      "id": 30,
+      "term": "fixer",
+      "ngram": 1,
+      "frequency": 166
+    },
+    {
+      "id": 31,
+      "term": "upper",
+      "ngram": 1,
+      "frequency": 166
+    },
+    {
+      "id": 32,
+      "term": "newly",
+      "ngram": 1,
+      "frequency": 163
+    },
+    {
+      "id": 33,
+      "term": "remodeled",
+      "ngram": 1,
+      "frequency": 163
+    },
+    {
+      "id": 34,
+      "term": "minutes",
+      "ngram": 1,
+      "frequency": 157
+    },
+    {
+      "id": 35,
+      "term": "from",
+      "ngram": 1,
+      "frequency": 157
+    },
+    {
+      "id": 36,
+      "term": "shopping",
+      "ngram": 1,
+      "frequency": 157
+    },
+    {
+      "id": 37,
+      "term": "large",
+      "ngram": 1,
+      "frequency": 154
+    },
+    {
+      "id": 38,
+      "term": "ready",
+      "ngram": 1,
+      "frequency": 154
+    },
+    {
+      "id": 39,
+      "term": "corner",
+      "ngram": 1,
+      "frequency": 152
+    },
+    {
+      "id": 40,
+      "term": "garage",
+      "ngram": 1,
+      "frequency": 151
+    },
+    {
+      "id": 41,
+      "term": "low",
+      "ngram": 1,
+      "frequency": 146
+    },
+    {
+      "id": 42,
+      "term": "fees",
+      "ngram": 1,
+      "frequency": 146
+    },
+    {
+      "id": 43,
+      "term": "closet",
+      "ngram": 1,
+      "frequency": 146
+    },
+    {
+      "id": 44,
+      "term": "close",
+      "ngram": 1,
+      "frequency": 143
+    },
+    {
+      "id": 45,
+      "term": "schools",
+      "ngram": 1,
+      "frequency": 143
+    },
+    {
+      "id": 46,
+      "term": "gated",
+      "ngram": 1,
+      "frequency": 143
+    },
+    {
+      "id": 47,
+      "term": "walking",
+      "ngram": 1,
+      "frequency": 142
+    },
+    {
+      "id": 48,
+      "term": "distance",
+      "ngram": 1,
+      "frequency": 142
+    },
+    {
+      "id": 49,
+      "term": "parks",
+      "ngram": 1,
+      "frequency": 142
+    },
+    {
+      "id": 50,
+      "term": "no",
+      "ngram": 1,
+      "frequency": 142
+    },
+    {
+      "id": 51,
+      "term": "downtown",
+      "ngram": 1,
+      "frequency": 139
+    },
+    {
+      "id": 52,
+      "term": "public",
+      "ngram": 1,
+      "frequency": 138
+    },
+    {
+      "id": 53,
+      "term": "transportation",
+      "ngram": 1,
+      "frequency": 138
+    },
+    {
+      "id": 54,
+      "term": "quiet",
+      "ngram": 1,
+      "frequency": 138
+    },
+    {
+      "id": 55,
+      "term": "neighborhood",
+      "ngram": 1,
+      "frequency": 138
+    },
+    {
+      "id": 56,
+      "term": "hardwood",
+      "ngram": 1,
+      "frequency": 137
+    },
+    {
+      "id": 57,
+      "term": "floors",
+      "ngram": 1,
+      "frequency": 137
+    },
+    {
+      "id": 58,
+      "term": "smart",
+      "ngram": 1,
+      "frequency": 133
+    },
+    {
+      "id": 59,
+      "term": "system",
+      "ngram": 1,
+      "frequency": 133
+    },
+    {
+      "id": 60,
+      "term": "pool",
+      "ngram": 1,
+      "frequency": 132
+    },
+    {
+      "id": 61,
+      "term": "vaulted",
+      "ngram": 1,
+      "frequency": 127
+    },
+    {
+      "id": 62,
+      "term": "ceilings",
+      "ngram": 1,
+      "frequency": 127
+    },
+    {
+      "id": 63,
+      "term": "granite",
+      "ngram": 1,
+      "frequency": 124
+    },
+    {
+      "id": 64,
+      "term": "countertops",
+      "ngram": 1,
+      "frequency": 124
+    },
+    {
+      "id": 65,
+      "term": "private",
+      "ngram": 1,
+      "frequency": 123
+    },
+    {
+      "id": 66,
+      "term": "backyard",
+      "ngram": 1,
+      "frequency": 123
+    },
+    {
+      "id": 67,
+      "term": "solar",
+      "ngram": 1,
+      "frequency": 121
+    },
+    {
+      "id": 68,
+      "term": "panels",
+      "ngram": 1,
+      "frequency": 121
+    },
+    {
+      "id": 69,
+      "term": "open",
+      "ngram": 1,
+      "frequency": 108
+    },
+    {
+      "id": 70,
+      "term": "floor",
+      "ngram": 1,
+      "frequency": 108
+    },
+    {
+      "id": 71,
+      "term": "plan",
+      "ngram": 1,
+      "frequency": 108
+    },
+    {
+      "id": 72,
+      "term": "stainless",
+      "ngram": 1,
+      "frequency": 104
+    },
+    {
+      "id": 73,
+      "term": "steel",
+      "ngram": 1,
+      "frequency": 104
+    },
+    {
+      "id": 74,
+      "term": "appliances",
+      "ngram": 1,
+      "frequency": 104
+    },
+    {
+      "id": 75,
+      "term": "property is",
+      "ngram": 2,
+      "frequency": 1000
+    },
+    {
+      "id": 76,
+      "term": "and includes",
+      "ngram": 2,
+      "frequency": 1000
+    },
+    {
+      "id": 77,
+      "term": "priced to",
+      "ngram": 2,
+      "frequency": 1000
+    },
+    {
+      "id": 78,
+      "term": "to sell",
+      "ngram": 2,
+      "frequency": 1000
+    },
+    {
+      "id": 79,
+      "term": "sell with",
+      "ngram": 2,
+      "frequency": 1000
+    },
+    {
+      "id": 80,
+      "term": "with strong",
+      "ngram": 2,
+      "frequency": 1000
+    },
+    {
+      "id": 81,
+      "term": "strong investment",
+      "ngram": 2,
+      "frequency": 1000
+    },
+    {
+      "id": 82,
+      "term": "investment potential",
+      "ngram": 2,
+      "frequency": 1000
+    },
+    {
+      "id": 83,
+      "term": "potential beautiful",
+      "ngram": 2,
+      "frequency": 999
+    },
+    {
+      "id": 84,
+      "term": "lot priced",
+      "ngram": 2,
+      "frequency": 306
+    },
+    {
+      "id": 85,
+      "term": "located near",
+      "ngram": 2,
+      "frequency": 277
+    },
+    {
+      "id": 86,
+      "term": "beautiful townhouse",
+      "ngram": 2,
+      "frequency": 211
+    },
+    {
+      "id": 87,
+      "term": "townhouse with",
+      "ngram": 2,
+      "frequency": 211
+    },
+    {
+      "id": 88,
+      "term": "beautiful single",
+      "ngram": 2,
+      "frequency": 206
+    },
+    {
+      "id": 89,
+      "term": "single family",
+      "ngram": 2,
+      "frequency": 206
+    },
+    {
+      "id": 90,
+      "term": "family home",
+      "ngram": 2,
+      "frequency": 206
+    },
+    {
+      "id": 91,
+      "term": "home with",
+      "ngram": 2,
+      "frequency": 206
+    },
+    {
+      "id": 92,
+      "term": "beautiful investment",
+      "ngram": 2,
+      "frequency": 203
+    },
+    {
+      "id": 93,
+      "term": "investment property",
+      "ngram": 2,
+      "frequency": 203
+    },
+    {
+      "id": 94,
+      "term": "property with",
+      "ngram": 2,
+      "frequency": 203
+    },
+    {
+      "id": 95,
+      "term": "beautiful duplex",
+      "ngram": 2,
+      "frequency": 193
+    },
+    {
+      "id": 96,
+      "term": "duplex with",
+      "ngram": 2,
+      "frequency": 193
+    },
+    {
+      "id": 97,
+      "term": "beautiful condo",
+      "ngram": 2,
+      "frequency": 187
+    },
+    {
+      "id": 98,
+      "term": "condo with",
+      "ngram": 2,
+      "frequency": 187
+    },
+    {
+      "id": 99,
+      "term": "is needs",
+      "ngram": 2,
+      "frequency": 175
+    },
+    {
+      "id": 100,
+      "term": "needs tlc",
+      "ngram": 2,
+      "frequency": 175
+    },
+    {
+      "id": 101,
+      "term": "tlc and",
+      "ngram": 2,
+      "frequency": 175
+    },
+    {
+      "id": 102,
+      "term": "is recently",
+      "ngram": 2,
+      "frequency": 174
+    },
+    {
+      "id": 103,
+      "term": "recently upgraded",
+      "ngram": 2,
+      "frequency": 174
+    },
+    {
+      "id": 104,
+      "term": "upgraded and",
+      "ngram": 2,
+      "frequency": 174
+    },
+    {
+      "id": 105,
+      "term": "is fully",
+      "ngram": 2,
+      "frequency": 168
+    },
+    {
+      "id": 106,
+      "term": "fully renovated",
+      "ngram": 2,
+      "frequency": 168
+    },
+    {
+      "id": 107,
+      "term": "renovated and",
+      "ngram": 2,
+      "frequency": 168
+    },
+    {
+      "id": 108,
+      "term": "is fixer",
+      "ngram": 2,
+      "frequency": 166
+    },
+    {
+      "id": 109,
+      "term": "fixer upper",
+      "ngram": 2,
+      "frequency": 166
+    },
+    {
+      "id": 110,
+      "term": "upper and",
+      "ngram": 2,
+      "frequency": 166
+    },
+    {
+      "id": 111,
+      "term": "is newly",
+      "ngram": 2,
+      "frequency": 163
+    },
+    {
+      "id": 112,
+      "term": "newly remodeled",
+      "ngram": 2,
+      "frequency": 163
+    },
+    {
+      "id": 113,
+      "term": "remodeled and",
+      "ngram": 2,
+      "frequency": 163
+    },
+    {
+      "id": 114,
+      "term": "located minutes",
+      "ngram": 2,
+      "frequency": 157
+    },
+    {
+      "id": 115,
+      "term": "minutes from",
+      "ngram": 2,
+      "frequency": 157
+    },
+    {
+      "id": 116,
+      "term": "from shopping",
+      "ngram": 2,
+      "frequency": 157
+    },
+    {
+      "id": 117,
+      "term": "shopping property",
+      "ngram": 2,
+      "frequency": 157
+    },
+    {
+      "id": 118,
+      "term": "includes large",
+      "ngram": 2,
+      "frequency": 154
+    },
+    {
+      "id": 119,
+      "term": "large lot",
+      "ngram": 2,
+      "frequency": 154
+    },
+    {
+      "id": 120,
+      "term": "is ready",
+      "ngram": 2,
+      "frequency": 154
+    },
+    {
+      "id": 121,
+      "term": "ready and",
+      "ngram": 2,
+      "frequency": 154
+    },
+    {
+      "id": 122,
+      "term": "includes corner",
+      "ngram": 2,
+      "frequency": 152
+    },
+    {
+      "id": 123,
+      "term": "corner lot",
+      "ngram": 2,
+      "frequency": 152
+    },
+    {
+      "id": 124,
+      "term": "includes garage",
+      "ngram": 2,
+      "frequency": 151
+    },
+    {
+      "id": 125,
+      "term": "garage priced",
+      "ngram": 2,
+      "frequency": 151
+    },
+    {
+      "id": 126,
+      "term": "includes low",
+      "ngram": 2,
+      "frequency": 146
+    },
+    {
+      "id": 127,
+      "term": "low hoa",
+      "ngram": 2,
+      "frequency": 146
+    },
+    {
+      "id": 128,
+      "term": "hoa fees",
+      "ngram": 2,
+      "frequency": 146
+    },
+    {
+      "id": 129,
+      "term": "fees priced",
+      "ngram": 2,
+      "frequency": 146
+    },
+    {
+      "id": 130,
+      "term": "with closet",
+      "ngram": 2,
+      "frequency": 146
+    },
+    {
+      "id": 131,
+      "term": "closet located",
+      "ngram": 2,
+      "frequency": 146
+    },
+    {
+      "id": 132,
+      "term": "located close",
+      "ngram": 2,
+      "frequency": 143
+    },
+    {
+      "id": 133,
+      "term": "close to",
+      "ngram": 2,
+      "frequency": 143
+    },
+    {
+      "id": 134,
+      "term": "to schools",
+      "ngram": 2,
+      "frequency": 143
+    },
+    {
+      "id": 135,
+      "term": "schools property",
+      "ngram": 2,
+      "frequency": 143
+    },
+    {
+      "id": 136,
+      "term": "located gated",
+      "ngram": 2,
+      "frequency": 143
+    },
+    {
+      "id": 137,
+      "term": "gated community",
+      "ngram": 2,
+      "frequency": 143
+    },
+    {
+      "id": 138,
+      "term": "community property",
+      "ngram": 2,
+      "frequency": 143
+    },
+    {
+      "id": 139,
+      "term": "located walking",
+      "ngram": 2,
+      "frequency": 142
+    },
+    {
+      "id": 140,
+      "term": "walking distance",
+      "ngram": 2,
+      "frequency": 142
+    },
+    {
+      "id": 141,
+      "term": "distance to",
+      "ngram": 2,
+      "frequency": 142
+    },
+    {
+      "id": 142,
+      "term": "to parks",
+      "ngram": 2,
+      "frequency": 142
+    },
+    {
+      "id": 143,
+      "term": "parks property",
+      "ngram": 2,
+      "frequency": 142
+    },
+    {
+      "id": 144,
+      "term": "includes no",
+      "ngram": 2,
+      "frequency": 142
+    },
+    {
+      "id": 145,
+      "term": "no hoa",
+      "ngram": 2,
+      "frequency": 142
+    },
+    {
+      "id": 146,
+      "term": "hoa priced",
+      "ngram": 2,
+      "frequency": 142
+    },
+    {
+      "id": 147,
+      "term": "near downtown",
+      "ngram": 2,
+      "frequency": 139
+    },
+    {
+      "id": 148,
+      "term": "downtown property",
+      "ngram": 2,
+      "frequency": 139
+    },
+    {
+      "id": 149,
+      "term": "near public",
+      "ngram": 2,
+      "frequency": 138
+    },
+    {
+      "id": 150,
+      "term": "public transportation",
+      "ngram": 2,
+      "frequency": 138
+    },
+    {
+      "id": 151,
+      "term": "transportation property",
+      "ngram": 2,
+      "frequency": 138
+    },
+    {
+      "id": 152,
+      "term": "located quiet",
+      "ngram": 2,
+      "frequency": 138
+    },
+    {
+      "id": 153,
+      "term": "quiet neighborhood",
+      "ngram": 2,
+      "frequency": 138
+    },
+    {
+      "id": 154,
+      "term": "neighborhood property",
+      "ngram": 2,
+      "frequency": 138
+    },
+    {
+      "id": 155,
+      "term": "with hardwood",
+      "ngram": 2,
+      "frequency": 137
+    },
+    {
+      "id": 156,
+      "term": "hardwood floors",
+      "ngram": 2,
+      "frequency": 137
+    },
+    {
+      "id": 157,
+      "term": "floors located",
+      "ngram": 2,
+      "frequency": 137
+    },
+    {
+      "id": 158,
+      "term": "with smart",
+      "ngram": 2,
+      "frequency": 133
+    },
+    {
+      "id": 159,
+      "term": "smart home",
+      "ngram": 2,
+      "frequency": 133
+    },
+    {
+      "id": 160,
+      "term": "home system",
+      "ngram": 2,
+      "frequency": 133
+    },
+    {
+      "id": 161,
+      "term": "system located",
+      "ngram": 2,
+      "frequency": 133
+    },
+    {
+      "id": 162,
+      "term": "includes community",
+      "ngram": 2,
+      "frequency": 132
+    },
+    {
+      "id": 163,
+      "term": "community pool",
+      "ngram": 2,
+      "frequency": 132
+    },
+    {
+      "id": 164,
+      "term": "pool priced",
+      "ngram": 2,
+      "frequency": 132
+    },
+    {
+      "id": 165,
+      "term": "with vaulted",
+      "ngram": 2,
+      "frequency": 127
+    },
+    {
+      "id": 166,
+      "term": "vaulted ceilings",
+      "ngram": 2,
+      "frequency": 127
+    },
+    {
+      "id": 167,
+      "term": "ceilings located",
+      "ngram": 2,
+      "frequency": 127
+    },
+    {
+      "id": 168,
+      "term": "with granite",
+      "ngram": 2,
+      "frequency": 124
+    },
+    {
+      "id": 169,
+      "term": "granite countertops",
+      "ngram": 2,
+      "frequency": 124
+    },
+    {
+      "id": 170,
+      "term": "countertops located",
+      "ngram": 2,
+      "frequency": 124
+    },
+    {
+      "id": 171,
+      "term": "includes private",
+      "ngram": 2,
+      "frequency": 123
+    },
+    {
+      "id": 172,
+      "term": "private backyard",
+      "ngram": 2,
+      "frequency": 123
+    },
+    {
+      "id": 173,
+      "term": "backyard priced",
+      "ngram": 2,
+      "frequency": 123
+    },
+    {
+      "id": 174,
+      "term": "with solar",
+      "ngram": 2,
+      "frequency": 121
+    },
+    {
+      "id": 175,
+      "term": "solar panels",
+      "ngram": 2,
+      "frequency": 121
+    },
+    {
+      "id": 176,
+      "term": "panels located",
+      "ngram": 2,
+      "frequency": 121
+    },
+    {
+      "id": 177,
+      "term": "with open",
+      "ngram": 2,
+      "frequency": 108
+    },
+    {
+      "id": 178,
+      "term": "open floor",
+      "ngram": 2,
+      "frequency": 108
+    },
+    {
+      "id": 179,
+      "term": "floor plan",
+      "ngram": 2,
+      "frequency": 108
+    },
+    {
+      "id": 180,
+      "term": "plan located",
+      "ngram": 2,
+      "frequency": 108
+    },
+    {
+      "id": 181,
+      "term": "with stainless",
+      "ngram": 2,
+      "frequency": 104
+    },
+    {
+      "id": 182,
+      "term": "stainless steel",
+      "ngram": 2,
+      "frequency": 104
+    },
+    {
+      "id": 183,
+      "term": "steel appliances",
+      "ngram": 2,
+      "frequency": 104
+    },
+    {
+      "id": 184,
+      "term": "appliances located",
+      "ngram": 2,
+      "frequency": 104
+    },
+    {
+      "id": 185,
+      "term": "priced to sell",
+      "ngram": 3,
+      "frequency": 1000
+    },
+    {
+      "id": 186,
+      "term": "to sell with",
+      "ngram": 3,
+      "frequency": 1000
+    },
+    {
+      "id": 187,
+      "term": "sell with strong",
+      "ngram": 3,
+      "frequency": 1000
+    },
+    {
+      "id": 188,
+      "term": "with strong investment",
+      "ngram": 3,
+      "frequency": 1000
+    },
+    {
+      "id": 189,
+      "term": "strong investment potential",
+      "ngram": 3,
+      "frequency": 1000
+    },
+    {
+      "id": 190,
+      "term": "investment potential beautiful",
+      "ngram": 3,
+      "frequency": 999
+    },
+    {
+      "id": 191,
+      "term": "lot priced to",
+      "ngram": 3,
+      "frequency": 306
+    },
+    {
+      "id": 192,
+      "term": "potential beautiful townhouse",
+      "ngram": 3,
+      "frequency": 211
+    },
+    {
+      "id": 193,
+      "term": "beautiful townhouse with",
+      "ngram": 3,
+      "frequency": 211
+    },
+    {
+      "id": 194,
+      "term": "beautiful single family",
+      "ngram": 3,
+      "frequency": 206
+    },
+    {
+      "id": 195,
+      "term": "single family home",
+      "ngram": 3,
+      "frequency": 206
+    },
+    {
+      "id": 196,
+      "term": "family home with",
+      "ngram": 3,
+      "frequency": 206
+    },
+    {
+      "id": 197,
+      "term": "potential beautiful single",
+      "ngram": 3,
+      "frequency": 205
+    },
+    {
+      "id": 198,
+      "term": "potential beautiful investment",
+      "ngram": 3,
+      "frequency": 203
+    },
+    {
+      "id": 199,
+      "term": "beautiful investment property",
+      "ngram": 3,
+      "frequency": 203
+    },
+    {
+      "id": 200,
+      "term": "investment property with",
+      "ngram": 3,
+      "frequency": 203
+    },
+    {
+      "id": 201,
+      "term": "potential beautiful duplex",
+      "ngram": 3,
+      "frequency": 193
+    },
+    {
+      "id": 202,
+      "term": "beautiful duplex with",
+      "ngram": 3,
+      "frequency": 193
+    },
+    {
+      "id": 203,
+      "term": "potential beautiful condo",
+      "ngram": 3,
+      "frequency": 187
+    },
+    {
+      "id": 204,
+      "term": "beautiful condo with",
+      "ngram": 3,
+      "frequency": 187
+    },
+    {
+      "id": 205,
+      "term": "property is needs",
+      "ngram": 3,
+      "frequency": 175
+    },
+    {
+      "id": 206,
+      "term": "is needs tlc",
+      "ngram": 3,
+      "frequency": 175
+    },
+    {
+      "id": 207,
+      "term": "needs tlc and",
+      "ngram": 3,
+      "frequency": 175
+    },
+    {
+      "id": 208,
+      "term": "tlc and includes",
+      "ngram": 3,
+      "frequency": 175
+    },
+    {
+      "id": 209,
+      "term": "property is recently",
+      "ngram": 3,
+      "frequency": 174
+    },
+    {
+      "id": 210,
+      "term": "is recently upgraded",
+      "ngram": 3,
+      "frequency": 174
+    },
+    {
+      "id": 211,
+      "term": "recently upgraded and",
+      "ngram": 3,
+      "frequency": 174
+    },
+    {
+      "id": 212,
+      "term": "upgraded and includes",
+      "ngram": 3,
+      "frequency": 174
+    },
+    {
+      "id": 213,
+      "term": "property is fully",
+      "ngram": 3,
+      "frequency": 168
+    },
+    {
+      "id": 214,
+      "term": "is fully renovated",
+      "ngram": 3,
+      "frequency": 168
+    },
+    {
+      "id": 215,
+      "term": "fully renovated and",
+      "ngram": 3,
+      "frequency": 168
+    },
+    {
+      "id": 216,
+      "term": "renovated and includes",
+      "ngram": 3,
+      "frequency": 168
+    },
+    {
+      "id": 217,
+      "term": "property is fixer",
+      "ngram": 3,
+      "frequency": 166
+    },
+    {
+      "id": 218,
+      "term": "is fixer upper",
+      "ngram": 3,
+      "frequency": 166
+    },
+    {
+      "id": 219,
+      "term": "fixer upper and",
+      "ngram": 3,
+      "frequency": 166
+    },
+    {
+      "id": 220,
+      "term": "upper and includes",
+      "ngram": 3,
+      "frequency": 166
+    },
+    {
+      "id": 221,
+      "term": "property is newly",
+      "ngram": 3,
+      "frequency": 163
+    },
+    {
+      "id": 222,
+      "term": "is newly remodeled",
+      "ngram": 3,
+      "frequency": 163
+    },
+    {
+      "id": 223,
+      "term": "newly remodeled and",
+      "ngram": 3,
+      "frequency": 163
+    },
+    {
+      "id": 224,
+      "term": "remodeled and includes",
+      "ngram": 3,
+      "frequency": 163
+    },
+    {
+      "id": 225,
+      "term": "located minutes from",
+      "ngram": 3,
+      "frequency": 157
+    },
+    {
+      "id": 226,
+      "term": "minutes from shopping",
+      "ngram": 3,
+      "frequency": 157
+    },
+    {
+      "id": 227,
+      "term": "from shopping property",
+      "ngram": 3,
+      "frequency": 157
+    },
+    {
+      "id": 228,
+      "term": "shopping property is",
+      "ngram": 3,
+      "frequency": 157
+    },
+    {
+      "id": 229,
+      "term": "and includes large",
+      "ngram": 3,
+      "frequency": 154
+    },
+    {
+      "id": 230,
+      "term": "includes large lot",
+      "ngram": 3,
+      "frequency": 154
+    },
+    {
+      "id": 231,
+      "term": "large lot priced",
+      "ngram": 3,
+      "frequency": 154
+    },
+    {
+      "id": 232,
+      "term": "property is ready",
+      "ngram": 3,
+      "frequency": 154
+    },
+    {
+      "id": 233,
+      "term": "is ready and",
+      "ngram": 3,
+      "frequency": 154
+    },
+    {
+      "id": 234,
+      "term": "ready and includes",
+      "ngram": 3,
+      "frequency": 154
+    },
+    {
+      "id": 235,
+      "term": "and includes corner",
+      "ngram": 3,
+      "frequency": 152
+    },
+    {
+      "id": 236,
+      "term": "includes corner lot",
+      "ngram": 3,
+      "frequency": 152
+    },
+    {
+      "id": 237,
+      "term": "corner lot priced",
+      "ngram": 3,
+      "frequency": 152
+    },
+    {
+      "id": 238,
+      "term": "and includes garage",
+      "ngram": 3,
+      "frequency": 151
+    },
+    {
+      "id": 239,
+      "term": "includes garage priced",
+      "ngram": 3,
+      "frequency": 151
+    },
+    {
+      "id": 240,
+      "term": "garage priced to",
+      "ngram": 3,
+      "frequency": 151
+    },
+    {
+      "id": 241,
+      "term": "and includes low",
+      "ngram": 3,
+      "frequency": 146
+    },
+    {
+      "id": 242,
+      "term": "includes low hoa",
+      "ngram": 3,
+      "frequency": 146
+    },
+    {
+      "id": 243,
+      "term": "low hoa fees",
+      "ngram": 3,
+      "frequency": 146
+    },
+    {
+      "id": 244,
+      "term": "hoa fees priced",
+      "ngram": 3,
+      "frequency": 146
+    },
+    {
+      "id": 245,
+      "term": "fees priced to",
+      "ngram": 3,
+      "frequency": 146
+    },
+    {
+      "id": 246,
+      "term": "with closet located",
+      "ngram": 3,
+      "frequency": 146
+    },
+    {
+      "id": 247,
+      "term": "located close to",
+      "ngram": 3,
+      "frequency": 143
+    },
+    {
+      "id": 248,
+      "term": "close to schools",
+      "ngram": 3,
+      "frequency": 143
+    },
+    {
+      "id": 249,
+      "term": "to schools property",
+      "ngram": 3,
+      "frequency": 143
+    },
+    {
+      "id": 250,
+      "term": "schools property is",
+      "ngram": 3,
+      "frequency": 143
+    },
+    {
+      "id": 251,
+      "term": "located gated community",
+      "ngram": 3,
+      "frequency": 143
+    },
+    {
+      "id": 252,
+      "term": "gated community property",
+      "ngram": 3,
+      "frequency": 143
+    },
+    {
+      "id": 253,
+      "term": "community property is",
+      "ngram": 3,
+      "frequency": 143
+    },
+    {
+      "id": 254,
+      "term": "located walking distance",
+      "ngram": 3,
+      "frequency": 142
+    },
+    {
+      "id": 255,
+      "term": "walking distance to",
+      "ngram": 3,
+      "frequency": 142
+    },
+    {
+      "id": 256,
+      "term": "distance to parks",
+      "ngram": 3,
+      "frequency": 142
+    },
+    {
+      "id": 257,
+      "term": "to parks property",
+      "ngram": 3,
+      "frequency": 142
+    },
+    {
+      "id": 258,
+      "term": "parks property is",
+      "ngram": 3,
+      "frequency": 142
+    },
+    {
+      "id": 259,
+      "term": "and includes no",
+      "ngram": 3,
+      "frequency": 142
+    },
+    {
+      "id": 260,
+      "term": "includes no hoa",
+      "ngram": 3,
+      "frequency": 142
+    },
+    {
+      "id": 261,
+      "term": "no hoa priced",
+      "ngram": 3,
+      "frequency": 142
+    },
+    {
+      "id": 262,
+      "term": "hoa priced to",
+      "ngram": 3,
+      "frequency": 142
+    },
+    {
+      "id": 263,
+      "term": "located near downtown",
+      "ngram": 3,
+      "frequency": 139
+    },
+    {
+      "id": 264,
+      "term": "near downtown property",
+      "ngram": 3,
+      "frequency": 139
+    },
+    {
+      "id": 265,
+      "term": "downtown property is",
+      "ngram": 3,
+      "frequency": 139
+    },
+    {
+      "id": 266,
+      "term": "located near public",
+      "ngram": 3,
+      "frequency": 138
+    },
+    {
+      "id": 267,
+      "term": "near public transportation",
+      "ngram": 3,
+      "frequency": 138
+    },
+    {
+      "id": 268,
+      "term": "public transportation property",
+      "ngram": 3,
+      "frequency": 138
+    },
+    {
+      "id": 269,
+      "term": "transportation property is",
+      "ngram": 3,
+      "frequency": 138
+    },
+    {
+      "id": 270,
+      "term": "located quiet neighborhood",
+      "ngram": 3,
+      "frequency": 138
+    },
+    {
+      "id": 271,
+      "term": "quiet neighborhood property",
+      "ngram": 3,
+      "frequency": 138
+    },
+    {
+      "id": 272,
+      "term": "neighborhood property is",
+      "ngram": 3,
+      "frequency": 138
+    },
+    {
+      "id": 273,
+      "term": "with hardwood floors",
+      "ngram": 3,
+      "frequency": 137
+    },
+    {
+      "id": 274,
+      "term": "hardwood floors located",
+      "ngram": 3,
+      "frequency": 137
+    },
+    {
+      "id": 275,
+      "term": "with smart home",
+      "ngram": 3,
+      "frequency": 133
+    },
+    {
+      "id": 276,
+      "term": "smart home system",
+      "ngram": 3,
+      "frequency": 133
+    },
+    {
+      "id": 277,
+      "term": "home system located",
+      "ngram": 3,
+      "frequency": 133
+    },
+    {
+      "id": 278,
+      "term": "and includes community",
+      "ngram": 3,
+      "frequency": 132
+    },
+    {
+      "id": 279,
+      "term": "includes community pool",
+      "ngram": 3,
+      "frequency": 132
+    },
+    {
+      "id": 280,
+      "term": "community pool priced",
+      "ngram": 3,
+      "frequency": 132
+    },
+    {
+      "id": 281,
+      "term": "pool priced to",
+      "ngram": 3,
+      "frequency": 132
+    },
+    {
+      "id": 282,
+      "term": "with vaulted ceilings",
+      "ngram": 3,
+      "frequency": 127
+    },
+    {
+      "id": 283,
+      "term": "vaulted ceilings located",
+      "ngram": 3,
+      "frequency": 127
+    },
+    {
+      "id": 284,
+      "term": "with granite countertops",
+      "ngram": 3,
+      "frequency": 124
+    },
+    {
+      "id": 285,
+      "term": "granite countertops located",
+      "ngram": 3,
+      "frequency": 124
+    },
+    {
+      "id": 286,
+      "term": "and includes private",
+      "ngram": 3,
+      "frequency": 123
+    },
+    {
+      "id": 287,
+      "term": "includes private backyard",
+      "ngram": 3,
+      "frequency": 123
+    },
+    {
+      "id": 288,
+      "term": "private backyard priced",
+      "ngram": 3,
+      "frequency": 123
+    },
+    {
+      "id": 289,
+      "term": "backyard priced to",
+      "ngram": 3,
+      "frequency": 123
+    },
+    {
+      "id": 290,
+      "term": "with solar panels",
+      "ngram": 3,
+      "frequency": 121
+    },
+    {
+      "id": 291,
+      "term": "solar panels located",
+      "ngram": 3,
+      "frequency": 121
+    },
+    {
+      "id": 292,
+      "term": "with open floor",
+      "ngram": 3,
+      "frequency": 108
+    },
+    {
+      "id": 293,
+      "term": "open floor plan",
+      "ngram": 3,
+      "frequency": 108
+    },
+    {
+      "id": 294,
+      "term": "floor plan located",
+      "ngram": 3,
+      "frequency": 108
+    },
+    {
+      "id": 295,
+      "term": "with stainless steel",
+      "ngram": 3,
+      "frequency": 104
+    },
+    {
+      "id": 296,
+      "term": "stainless steel appliances",
+      "ngram": 3,
+      "frequency": 104
+    },
+    {
+      "id": 297,
+      "term": "steel appliances located",
+      "ngram": 3,
+      "frequency": 104
+    },
+    {
+      "id": 298,
+      "term": "townhouse with closet",
+      "ngram": 3,
+      "frequency": 42
+    },
+    {
+      "id": 299,
+      "term": "panels located near",
+      "ngram": 3,
+      "frequency": 38
+    },
+    {
+      "id": 300,
+      "term": "floors located near",
+      "ngram": 3,
+      "frequency": 38
+    },
+    {
+      "id": 301,
+      "term": "property with open",
+      "ngram": 3,
+      "frequency": 37
+    },
+    {
+      "id": 302,
+      "term": "home with smart",
+      "ngram": 3,
+      "frequency": 36
+    },
+    {
+      "id": 303,
+      "term": "ceilings located near",
+      "ngram": 3,
+      "frequency": 36
+    },
+    {
+      "id": 304,
+      "term": "closet located near",
+      "ngram": 3,
+      "frequency": 36
+    },
+    {
+      "id": 305,
+      "term": "system located near",
+      "ngram": 3,
+      "frequency": 34
+    },
+    {
+      "id": 306,
+      "term": "plan located near",
+      "ngram": 3,
+      "frequency": 33
+    },
+    {
+      "id": 307,
+      "term": "countertops located near",
+      "ngram": 3,
+      "frequency": 32
+    },
+    {
+      "id": 308,
+      "term": "home with vaulted",
+      "ngram": 3,
+      "frequency": 31
+    },
+    {
+      "id": 309,
+      "term": "duplex with hardwood",
+      "ngram": 3,
+      "frequency": 31
+    },
+    {
+      "id": 310,
+      "term": "townhouse with smart",
+      "ngram": 3,
+      "frequency": 31
+    },
+    {
+      "id": 311,
+      "term": "townhouse with hardwood",
+      "ngram": 3,
+      "frequency": 30
+    },
+    {
+      "id": 312,
+      "term": "home with granite",
+      "ngram": 3,
+      "frequency": 30
+    },
+    {
+      "id": 313,
+      "term": "condo with solar",
+      "ngram": 3,
+      "frequency": 30
+    },
+    {
+      "id": 314,
+      "term": "appliances located near",
+      "ngram": 3,
+      "frequency": 30
+    },
+    {
+      "id": 315,
+      "term": "home with closet",
+      "ngram": 3,
+      "frequency": 29
+    },
+    {
+      "id": 316,
+      "term": "property with hardwood",
+      "ngram": 3,
+      "frequency": 29
+    },
+    {
+      "id": 317,
+      "term": "floors located close",
+      "ngram": 3,
+      "frequency": 29
+    },
+    {
+      "id": 318,
+      "term": "ceilings located minutes",
+      "ngram": 3,
+      "frequency": 28
+    },
+    {
+      "id": 319,
+      "term": "condo with closet",
+      "ngram": 3,
+      "frequency": 28
+    },
+    {
+      "id": 320,
+      "term": "property with granite",
+      "ngram": 3,
+      "frequency": 27
+    },
+    {
+      "id": 321,
+      "term": "closet located gated",
+      "ngram": 3,
+      "frequency": 27
+    },
+    {
+      "id": 322,
+      "term": "property with stainless",
+      "ngram": 3,
+      "frequency": 27
+    },
+    {
+      "id": 323,
+      "term": "duplex with vaulted",
+      "ngram": 3,
+      "frequency": 27
+    },
+    {
+      "id": 324,
+      "term": "system located walking",
+      "ngram": 3,
+      "frequency": 27
+    },
+    {
+      "id": 325,
+      "term": "townhouse with vaulted",
+      "ngram": 3,
+      "frequency": 27
+    },
+    {
+      "id": 326,
+      "term": "property with solar",
+      "ngram": 3,
+      "frequency": 25
+    },
+    {
+      "id": 327,
+      "term": "condo with granite",
+      "ngram": 3,
+      "frequency": 25
+    },
+    {
+      "id": 328,
+      "term": "condo with vaulted",
+      "ngram": 3,
+      "frequency": 25
+    },
+    {
+      "id": 329,
+      "term": "duplex with closet",
+      "ngram": 3,
+      "frequency": 25
+    },
+    {
+      "id": 330,
+      "term": "countertops located gated",
+      "ngram": 3,
+      "frequency": 25
+    },
+    {
+      "id": 331,
+      "term": "townhouse with stainless",
+      "ngram": 3,
+      "frequency": 24
+    },
+    {
+      "id": 332,
+      "term": "condo with hardwood",
+      "ngram": 3,
+      "frequency": 24
+    },
+    {
+      "id": 333,
+      "term": "duplex with smart",
+      "ngram": 3,
+      "frequency": 24
+    },
+    {
+      "id": 334,
+      "term": "floors located walking",
+      "ngram": 3,
+      "frequency": 24
+    },
+    {
+      "id": 335,
+      "term": "townhouse with solar",
+      "ngram": 3,
+      "frequency": 24
+    },
+    {
+      "id": 336,
+      "term": "duplex with granite",
+      "ngram": 3,
+      "frequency": 23
+    },
+    {
+      "id": 337,
+      "term": "home with hardwood",
+      "ngram": 3,
+      "frequency": 23
+    },
+    {
+      "id": 338,
+      "term": "home with solar",
+      "ngram": 3,
+      "frequency": 23
+    },
+    {
+      "id": 339,
+      "term": "condo with smart",
+      "ngram": 3,
+      "frequency": 23
+    },
+    {
+      "id": 340,
+      "term": "duplex with open",
+      "ngram": 3,
+      "frequency": 22
+    },
+    {
+      "id": 341,
+      "term": "closet located quiet",
+      "ngram": 3,
+      "frequency": 22
+    },
+    {
+      "id": 342,
+      "term": "duplex with stainless",
+      "ngram": 3,
+      "frequency": 22
+    },
+    {
+      "id": 343,
+      "term": "panels located quiet",
+      "ngram": 3,
+      "frequency": 22
+    },
+    {
+      "id": 344,
+      "term": "system located gated",
+      "ngram": 3,
+      "frequency": 22
+    },
+    {
+      "id": 345,
+      "term": "property with closet",
+      "ngram": 3,
+      "frequency": 22
+    },
+    {
+      "id": 346,
+      "term": "appliances located gated",
+      "ngram": 3,
+      "frequency": 21
+    },
+    {
+      "id": 347,
+      "term": "countertops located close",
+      "ngram": 3,
+      "frequency": 21
+    },
+    {
+      "id": 348,
+      "term": "panels located minutes",
+      "ngram": 3,
+      "frequency": 21
+    },
+    {
+      "id": 349,
+      "term": "closet located minutes",
+      "ngram": 3,
+      "frequency": 21
+    },
+    {
+      "id": 350,
+      "term": "ceilings located walking",
+      "ngram": 3,
+      "frequency": 21
+    },
+    {
+      "id": 351,
+      "term": "closet located close",
+      "ngram": 3,
+      "frequency": 21
+    },
+    {
+      "id": 352,
+      "term": "appliances located minutes",
+      "ngram": 3,
+      "frequency": 20
+    },
+    {
+      "id": 353,
+      "term": "condo with open",
+      "ngram": 3,
+      "frequency": 20
+    },
+    {
+      "id": 354,
+      "term": "closet located walking",
+      "ngram": 3,
+      "frequency": 19
+    },
+    {
+      "id": 355,
+      "term": "home with stainless",
+      "ngram": 3,
+      "frequency": 19
+    },
+    {
+      "id": 356,
+      "term": "duplex with solar",
+      "ngram": 3,
+      "frequency": 19
+    },
+    {
+      "id": 357,
+      "term": "property with smart",
+      "ngram": 3,
+      "frequency": 19
+    },
+    {
+      "id": 358,
+      "term": "plan located close",
+      "ngram": 3,
+      "frequency": 19
+    },
+    {
+      "id": 359,
+      "term": "floors located quiet",
+      "ngram": 3,
+      "frequency": 19
+    },
+    {
+      "id": 360,
+      "term": "townhouse with granite",
+      "ngram": 3,
+      "frequency": 19
+    },
+    {
+      "id": 361,
+      "term": "countertops located minutes",
+      "ngram": 3,
+      "frequency": 18
+    },
+    {
+      "id": 362,
+      "term": "system located quiet",
+      "ngram": 3,
+      "frequency": 18
+    },
+    {
+      "id": 363,
+      "term": "plan located minutes",
+      "ngram": 3,
+      "frequency": 17
+    },
+    {
+      "id": 364,
+      "term": "property with vaulted",
+      "ngram": 3,
+      "frequency": 17
+    },
+    {
+      "id": 365,
+      "term": "system located close",
+      "ngram": 3,
+      "frequency": 16
+    },
+    {
+      "id": 366,
+      "term": "floors located minutes",
+      "ngram": 3,
+      "frequency": 16
+    },
+    {
+      "id": 367,
+      "term": "ceilings located quiet",
+      "ngram": 3,
+      "frequency": 16
+    },
+    {
+      "id": 368,
+      "term": "system located minutes",
+      "ngram": 3,
+      "frequency": 16
+    },
+    {
+      "id": 369,
+      "term": "plan located quiet",
+      "ngram": 3,
+      "frequency": 15
+    },
+    {
+      "id": 370,
+      "term": "panels located walking",
+      "ngram": 3,
+      "frequency": 15
+    },
+    {
+      "id": 371,
+      "term": "home with open",
+      "ngram": 3,
+      "frequency": 15
+    },
+    {
+      "id": 372,
+      "term": "townhouse with open",
+      "ngram": 3,
+      "frequency": 14
+    },
+    {
+      "id": 373,
+      "term": "countertops located walking",
+      "ngram": 3,
+      "frequency": 14
+    },
+    {
+      "id": 374,
+      "term": "countertops located quiet",
+      "ngram": 3,
+      "frequency": 14
+    },
+    {
+      "id": 375,
+      "term": "ceilings located gated",
+      "ngram": 3,
+      "frequency": 13
+    },
+    {
+      "id": 376,
+      "term": "ceilings located close",
+      "ngram": 3,
+      "frequency": 13
+    },
+    {
+      "id": 377,
+      "term": "plan located walking",
+      "ngram": 3,
+      "frequency": 13
+    },
+    {
+      "id": 378,
+      "term": "panels located gated",
+      "ngram": 3,
+      "frequency": 13
+    },
+    {
+      "id": 379,
+      "term": "condo with stainless",
+      "ngram": 3,
+      "frequency": 12
+    },
+    {
+      "id": 380,
+      "term": "appliances located quiet",
+      "ngram": 3,
+      "frequency": 12
+    },
+    {
+      "id": 381,
+      "term": "appliances located close",
+      "ngram": 3,
+      "frequency": 12
+    },
+    {
+      "id": 382,
+      "term": "panels located close",
+      "ngram": 3,
+      "frequency": 12
+    },
+    {
+      "id": 383,
+      "term": "floors located gated",
+      "ngram": 3,
+      "frequency": 11
+    },
+    {
+      "id": 384,
+      "term": "plan located gated",
+      "ngram": 3,
+      "frequency": 11
+    }
+  ]
+}

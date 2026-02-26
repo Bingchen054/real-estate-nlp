@@ -1,0 +1,482 @@
+[
+  {
+    "query": "Show me available single family homes",
+    "intent": "Search_Property"
+  },
+  {
+    "query": "Find condos for sale",
+    "intent": "Search_Property"
+  },
+  {
+    "query": "List townhouses in the area",
+    "intent": "Search_Property"
+  },
+  {
+    "query": "Homes under $500,000",
+    "intent": "Filter_By_Price"
+  },
+  {
+    "query": "Properties between $600k and $800k",
+    "intent": "Filter_By_Price"
+  },
+  {
+    "query": "Affordable houses below $450k",
+    "intent": "Filter_By_Price"
+  },
+  {
+    "query": "3 bedroom 2 bathroom homes",
+    "intent": "Filter_By_Beds_Baths"
+  },
+  {
+    "query": "4 bed properties with 3 baths",
+    "intent": "Filter_By_Beds_Baths"
+  },
+  {
+    "query": "2 bedroom condos",
+    "intent": "Filter_By_Beds_Baths"
+  },
+  {
+    "query": "Homes near downtown",
+    "intent": "Filter_By_Location"
+  },
+  {
+    "query": "Properties close to schools",
+    "intent": "Filter_By_Location"
+  },
+  {
+    "query": "Houses in gated communities",
+    "intent": "Filter_By_Location"
+  },
+  {
+    "query": "Homes with a pool",
+    "intent": "Filter_By_Feature"
+  },
+  {
+    "query": "Properties with hardwood floors",
+    "intent": "Filter_By_Feature"
+  },
+  {
+    "query": "Listings with solar panels",
+    "intent": "Filter_By_Feature"
+  },
+  {
+    "query": "Best investment properties",
+    "intent": "Investment_Query"
+  },
+  {
+    "query": "High ROI real estate listings",
+    "intent": "Investment_Query"
+  },
+  {
+    "query": "Rental income potential homes",
+    "intent": "Investment_Query"
+  },
+  {
+    "query": "Active listings only",
+    "intent": "Status_Query"
+  },
+  {
+    "query": "Show pending properties",
+    "intent": "Status_Query"
+  },
+  {
+    "query": "Foreclosed homes available",
+    "intent": "Status_Query"
+  },
+  {
+    "query": "Open houses this weekend",
+    "intent": "Open_House_Query"
+  },
+  {
+    "query": "Upcoming open house events",
+    "intent": "Open_House_Query"
+  },
+  {
+    "query": "Schedule for open houses",
+    "intent": "Open_House_Query"
+  },
+  {
+    "query": "Recently sold homes",
+    "intent": "Sold_Data_Query"
+  },
+  {
+    "query": "Sold properties in San Jose",
+    "intent": "Sold_Data_Query"
+  },
+  {
+    "query": "Average sale price last month",
+    "intent": "Sold_Data_Query"
+  },
+  {
+    "query": "Compare condos and townhouses",
+    "intent": "Comparison_Query"
+  },
+  {
+    "query": "Price comparison between neighborhoods",
+    "intent": "Comparison_Query"
+  },
+  {
+    "query": "Which area has higher property values",
+    "intent": "Comparison_Query"
+  },
+  {
+    "query": "Show me available single family homes option 1",
+    "intent": "Search_Property"
+  },
+  {
+    "query": "Find condos for sale option 1",
+    "intent": "Search_Property"
+  },
+  {
+    "query": "List townhouses in the area option 1",
+    "intent": "Search_Property"
+  },
+  {
+    "query": "Homes under $500,000 option 1",
+    "intent": "Filter_By_Price"
+  },
+  {
+    "query": "Properties between $600k and $800k option 1",
+    "intent": "Filter_By_Price"
+  },
+  {
+    "query": "Affordable houses below $450k option 1",
+    "intent": "Filter_By_Price"
+  },
+  {
+    "query": "3 bedroom 2 bathroom homes option 1",
+    "intent": "Filter_By_Beds_Baths"
+  },
+  {
+    "query": "4 bed properties with 3 baths option 1",
+    "intent": "Filter_By_Beds_Baths"
+  },
+  {
+    "query": "2 bedroom condos option 1",
+    "intent": "Filter_By_Beds_Baths"
+  },
+  {
+    "query": "Homes near downtown option 1",
+    "intent": "Filter_By_Location"
+  },
+  {
+    "query": "Properties close to schools option 1",
+    "intent": "Filter_By_Location"
+  },
+  {
+    "query": "Houses in gated communities option 1",
+    "intent": "Filter_By_Location"
+  },
+  {
+    "query": "Homes with a pool option 1",
+    "intent": "Filter_By_Feature"
+  },
+  {
+    "query": "Properties with hardwood floors option 1",
+    "intent": "Filter_By_Feature"
+  },
+  {
+    "query": "Listings with solar panels option 1",
+    "intent": "Filter_By_Feature"
+  },
+  {
+    "query": "Best investment properties option 1",
+    "intent": "Investment_Query"
+  },
+  {
+    "query": "High ROI real estate listings option 1",
+    "intent": "Investment_Query"
+  },
+  {
+    "query": "Rental income potential homes option 1",
+    "intent": "Investment_Query"
+  },
+  {
+    "query": "Active listings only option 1",
+    "intent": "Status_Query"
+  },
+  {
+    "query": "Show pending properties option 1",
+    "intent": "Status_Query"
+  },
+  {
+    "query": "Foreclosed homes available option 1",
+    "intent": "Status_Query"
+  },
+  {
+    "query": "Open houses this weekend option 1",
+    "intent": "Open_House_Query"
+  },
+  {
+    "query": "Upcoming open house events option 1",
+    "intent": "Open_House_Query"
+  },
+  {
+    "query": "Schedule for open houses option 1",
+    "intent": "Open_House_Query"
+  },
+  {
+    "query": "Recently sold homes option 1",
+    "intent": "Sold_Data_Query"
+  },
+  {
+    "query": "Sold properties in San Jose option 1",
+    "intent": "Sold_Data_Query"
+  },
+  {
+    "query": "Average sale price last month option 1",
+    "intent": "Sold_Data_Query"
+  },
+  {
+    "query": "Compare condos and townhouses option 1",
+    "intent": "Comparison_Query"
+  },
+  {
+    "query": "Price comparison between neighborhoods option 1",
+    "intent": "Comparison_Query"
+  },
+  {
+    "query": "Which area has higher property values option 1",
+    "intent": "Comparison_Query"
+  },
+  {
+    "query": "Show me available single family homes option 2",
+    "intent": "Search_Property"
+  },
+  {
+    "query": "Find condos for sale option 2",
+    "intent": "Search_Property"
+  },
+  {
+    "query": "List townhouses in the area option 2",
+    "intent": "Search_Property"
+  },
+  {
+    "query": "Homes under $500,000 option 2",
+    "intent": "Filter_By_Price"
+  },
+  {
+    "query": "Properties between $600k and $800k option 2",
+    "intent": "Filter_By_Price"
+  },
+  {
+    "query": "Affordable houses below $450k option 2",
+    "intent": "Filter_By_Price"
+  },
+  {
+    "query": "3 bedroom 2 bathroom homes option 2",
+    "intent": "Filter_By_Beds_Baths"
+  },
+  {
+    "query": "4 bed properties with 3 baths option 2",
+    "intent": "Filter_By_Beds_Baths"
+  },
+  {
+    "query": "2 bedroom condos option 2",
+    "intent": "Filter_By_Beds_Baths"
+  },
+  {
+    "query": "Homes near downtown option 2",
+    "intent": "Filter_By_Location"
+  },
+  {
+    "query": "Properties close to schools option 2",
+    "intent": "Filter_By_Location"
+  },
+  {
+    "query": "Houses in gated communities option 2",
+    "intent": "Filter_By_Location"
+  },
+  {
+    "query": "Homes with a pool option 2",
+    "intent": "Filter_By_Feature"
+  },
+  {
+    "query": "Properties with hardwood floors option 2",
+    "intent": "Filter_By_Feature"
+  },
+  {
+    "query": "Listings with solar panels option 2",
+    "intent": "Filter_By_Feature"
+  },
+  {
+    "query": "Best investment properties option 2",
+    "intent": "Investment_Query"
+  },
+  {
+    "query": "High ROI real estate listings option 2",
+    "intent": "Investment_Query"
+  },
+  {
+    "query": "Rental income potential homes option 2",
+    "intent": "Investment_Query"
+  },
+  {
+    "query": "Active listings only option 2",
+    "intent": "Status_Query"
+  },
+  {
+    "query": "Show pending properties option 2",
+    "intent": "Status_Query"
+  },
+  {
+    "query": "Foreclosed homes available option 2",
+    "intent": "Status_Query"
+  },
+  {
+    "query": "Open houses this weekend option 2",
+    "intent": "Open_House_Query"
+  },
+  {
+    "query": "Upcoming open house events option 2",
+    "intent": "Open_House_Query"
+  },
+  {
+    "query": "Schedule for open houses option 2",
+    "intent": "Open_House_Query"
+  },
+  {
+    "query": "Recently sold homes option 2",
+    "intent": "Sold_Data_Query"
+  },
+  {
+    "query": "Sold properties in San Jose option 2",
+    "intent": "Sold_Data_Query"
+  },
+  {
+    "query": "Average sale price last month option 2",
+    "intent": "Sold_Data_Query"
+  },
+  {
+    "query": "Compare condos and townhouses option 2",
+    "intent": "Comparison_Query"
+  },
+  {
+    "query": "Price comparison between neighborhoods option 2",
+    "intent": "Comparison_Query"
+  },
+  {
+    "query": "Which area has higher property values option 2",
+    "intent": "Comparison_Query"
+  },
+  {
+    "query": "Show me available single family homes option 3",
+    "intent": "Search_Property"
+  },
+  {
+    "query": "Find condos for sale option 3",
+    "intent": "Search_Property"
+  },
+  {
+    "query": "List townhouses in the area option 3",
+    "intent": "Search_Property"
+  },
+  {
+    "query": "Homes under $500,000 option 3",
+    "intent": "Filter_By_Price"
+  },
+  {
+    "query": "Properties between $600k and $800k option 3",
+    "intent": "Filter_By_Price"
+  },
+  {
+    "query": "Affordable houses below $450k option 3",
+    "intent": "Filter_By_Price"
+  },
+  {
+    "query": "3 bedroom 2 bathroom homes option 3",
+    "intent": "Filter_By_Beds_Baths"
+  },
+  {
+    "query": "4 bed properties with 3 baths option 3",
+    "intent": "Filter_By_Beds_Baths"
+  },
+  {
+    "query": "2 bedroom condos option 3",
+    "intent": "Filter_By_Beds_Baths"
+  },
+  {
+    "query": "Homes near downtown option 3",
+    "intent": "Filter_By_Location"
+  },
+  {
+    "query": "Properties close to schools option 3",
+    "intent": "Filter_By_Location"
+  },
+  {
+    "query": "Houses in gated communities option 3",
+    "intent": "Filter_By_Location"
+  },
+  {
+    "query": "Homes with a pool option 3",
+    "intent": "Filter_By_Feature"
+  },
+  {
+    "query": "Properties with hardwood floors option 3",
+    "intent": "Filter_By_Feature"
+  },
+  {
+    "query": "Listings with solar panels option 3",
+    "intent": "Filter_By_Feature"
+  },
+  {
+    "query": "Best investment properties option 3",
+    "intent": "Investment_Query"
+  },
+  {
+    "query": "High ROI real estate listings option 3",
+    "intent": "Investment_Query"
+  },
+  {
+    "query": "Rental income potential homes option 3",
+    "intent": "Investment_Query"
+  },
+  {
+    "query": "Active listings only option 3",
+    "intent": "Status_Query"
+  },
+  {
+    "query": "Show pending properties option 3",
+    "intent": "Status_Query"
+  },
+  {
+    "query": "Foreclosed homes available option 3",
+    "intent": "Status_Query"
+  },
+  {
+    "query": "Open houses this weekend option 3",
+    "intent": "Open_House_Query"
+  },
+  {
+    "query": "Upcoming open house events option 3",
+    "intent": "Open_House_Query"
+  },
+  {
+    "query": "Schedule for open houses option 3",
+    "intent": "Open_House_Query"
+  },
+  {
+    "query": "Recently sold homes option 3",
+    "intent": "Sold_Data_Query"
+  },
+  {
+    "query": "Sold properties in San Jose option 3",
+    "intent": "Sold_Data_Query"
+  },
+  {
+    "query": "Average sale price last month option 3",
+    "intent": "Sold_Data_Query"
+  },
+  {
+    "query": "Compare condos and townhouses option 3",
+    "intent": "Comparison_Query"
+  },
+  {
+    "query": "Price comparison between neighborhoods option 3",
+    "intent": "Comparison_Query"
+  },
+  {
+    "query": "Which area has higher property values option 3",
+    "intent": "Comparison_Query"
+  }
+]
